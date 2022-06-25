@@ -1,9 +1,29 @@
-# Mohamed Faizan Cassim Repository
-## Welcome to my repository, this is where you will find code for all my open-sourced work. This incudes programs and libraries in C, C++, C# and Python. If you are interested in my work, please feel free to hit me up on my email (*given bellow*).
+# Mohamed Faizan Cassim
 
+## Contact Details
+**Mobile** +44 (0)79 4909 5650 (*remove the leading zero if dialing from **outside** the UK, remove +44 otherwise.*)
 
-![Mohamed Faizan Cassim](prof_pic.JPG)
+**Email** faizancassim@gmail.com
 
-**Email:** faizancassim@gmail.com
+**LinkedIn** https://www.linkedin.com/in/faizancassim/
 
-**Website:** mohamedfaizancassim.wordpress.com
+**YouTube** https://www.youtube.com/c/FaizanCassim
+
+## My Image 
+![Main Image](prof_pic.jpg)
+
+## Education Background
+**MSC Robotics** | University of Sheffield | September 2022
+
+**BEng(hons) Robotics Engineering** | University of Central Lancashire | June 20217
+
+## Work Experiance 
+Embedded Software Engineer | **Rolls Royce UTC, Department of ACSE, University of Sheffield** | Sheffield, South Yorkshire, United Kingdom
+
+Senior Software Engineer | **London Stock Exchange Group** | Malabe,Sri Lanka
+
+Software Engineer | **Aeturnum** | Colombo,Sri Lanka | 
+
+Software Engineer | **Zebra Technologies** | Colombo, Sri Lanka
+
+Undergraduate Research Intern | **Advanced Digital Manufacturing Technologies Lab** | UCLan Burnley Campus, Burnley, Lancashire, United Kingdom
