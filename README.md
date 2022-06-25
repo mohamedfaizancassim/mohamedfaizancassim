@@ -10,7 +10,7 @@
 **YouTube** https://www.youtube.com/c/FaizanCassim
 
 ## My Image 
-![Main Image](prof_pic.jpg)
+![Main Image](prof_pic.JPG)
 
 ## Education Background
 **MSC Robotics** | University of Sheffield | September 2022
